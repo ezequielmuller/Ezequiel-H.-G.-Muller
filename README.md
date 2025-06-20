@@ -50,9 +50,9 @@
 
 ### 📊 GitHub Stats
 
-![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequielhgmuller&show_icons=true&theme=radical&count_private=true)
+![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequielmuller&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielhgmuller&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=radical)
 
 ---
 
