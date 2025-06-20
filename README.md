@@ -4,11 +4,13 @@
 
 ---
 
-### 🌐 Contato & Redes Sociais
+### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel-blue?logo=linkedin)](https://www.linkedin.com/in/ezequielhgmuller/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@ezequielmuller__-C13584?logo=instagram&logoColor=white)](https://www.instagram.com/ezequielmuller__)  
-[![Email](https://img.shields.io/badge/Email-zikimuller017@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zikimuller017@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" title="LinkedIn"/>](https://www.linkedin.com/in/ezequielhgmuller/)
+&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30px" title="Instagram"/>](https://www.instagram.com/ezequielmuller__)
+&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px" title="Email"/>](mailto:zikimuller017@gmail.com)
 
 ---
 
@@ -18,7 +20,7 @@
 
 <br/><br/>
 
-#### 🖥️ Front‑end
+#### 🖥️ Front-end
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -29,7 +31,7 @@
 
 <br/><br/><br/>
 
-#### ⚙️ Back‑end
+#### ⚙️ Back-end
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
