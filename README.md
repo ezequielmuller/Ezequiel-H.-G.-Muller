@@ -39,10 +39,9 @@
 
 <br/><br/><br/>
 
-#### 🗄️ Banco de Dados
+#### 🗄️ Database
 
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="IBExpert" title="IBExpert" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/ErickAguiar/ibexpert-icon/main/ibexpert.png"/>
 
 <br/><br/><br/>
