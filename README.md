@@ -45,3 +45,14 @@
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
 <br/><br/><br/>
+
+---
+
+### 📊 GitHub Stats
+
+![Ezequiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequielhgmuller&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielhgmuller&layout=compact&theme=radical)
+
+---
+
