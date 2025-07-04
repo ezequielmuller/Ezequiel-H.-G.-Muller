@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ezequiel Henrique Gazolla Muller
 
-**Developer | Computer Science Student | IT Technician**
+** Web Developer | Computer Science Student | IT Technician**
 
 ---
 
