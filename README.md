@@ -30,7 +30,7 @@
 
 <br/>
 
-#### 🖥️ Development
+### 🖥️ Development
 
 <p align="left">
   <img alt="HTML" title="HTML" width="30px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
