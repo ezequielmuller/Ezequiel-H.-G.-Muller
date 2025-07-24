@@ -6,7 +6,7 @@
 
 ### 🌐 Redes Sociais
 
-<p align="left">
+<p align="left" style="letter-spacing:2px">
   <a href="https://www.linkedin.com/in/ezequielhgmuller/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" title="LinkedIn"/>
   </a>
