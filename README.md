@@ -6,7 +6,7 @@
 
 ### 🌐 Redes Sociais
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ezequielhgmuller/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" title="LinkedIn"/>
   </a>
@@ -24,7 +24,7 @@
 
 ### ⚙️ Tools
 
-<p align="center">
+<p align="left">
   <img alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
@@ -32,7 +32,7 @@
 
 #### 🖥️ Development
 
-<p align="center">
+<p align="left">
   <img alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
