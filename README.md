@@ -48,5 +48,5 @@
 <br/>
 
 <p align="center">
-  💻 Sempre aprendendo e desenvolvendo soluções eficientes!
+  💻 In continuous development
 </p>
