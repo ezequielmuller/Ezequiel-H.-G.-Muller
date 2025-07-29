@@ -9,16 +9,16 @@
 <h3>🌐 Contact</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ezequielhgmuller/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ezequielhgmuller/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ezequielmuller__" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px" alt="Instagram"/>
+  <a href="https://www.instagram.com/ezequielmuller__" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:zikimuller017@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px" alt="Email"/>
+  <a href="mailto:zikimuller017@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px" alt="Email" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 <h3>⚙️ Development</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" alt="JavaScript" />
