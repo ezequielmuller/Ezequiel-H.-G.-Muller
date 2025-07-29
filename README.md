@@ -4,8 +4,6 @@
   <strong>Web Developer</strong> • <strong>Computer Science Student</strong> • <strong>IT Technician</strong>
 </p>
 
-<br/>
-
 <h3 align="center">🌐 Contact</h3>
 
 <p align="center">
