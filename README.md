@@ -4,7 +4,9 @@
   <strong>Web Developer</strong> • <strong>Computer Science Student</strong> • <strong>IT Technician</strong>
 </p>
 
-## 🌐 Contact
+<br/>
+
+<h3>🌐 Contact</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ezequielhgmuller/" target="_blank">
@@ -20,7 +22,9 @@
   </a>
 </p>
 
-## ⚙️ Development
+<br/>
+
+<h3>⚙️ Development</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" alt="HTML" />
@@ -33,11 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35px" alt="PostgreSQL" />
 </p>
 
-## 📈 GitHub Stats
+<br/>
+
+<h3>📈 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+<br/>
 
 <p align="center">
   💻 Sempre aprendendo e desenvolvendo soluções eficientes!
